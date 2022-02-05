@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyajeet10
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, Next
+- 🌱 I’m currently learning more stuff in react ecosystem
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Message me on my discord ID satyajeet#9347
 

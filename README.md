@@ -14,12 +14,6 @@ enterprise clients including DBS Bank, Toyota, Marriott, and Riyad Bank.
 - Building a **React 18 + GraphQL** vehicle management platform with 100% Figma
   fidelity, 80%+ Jest coverage, and sub-2s page loads.
 
-#### 🌱 Currently learning
-
-React rendering internals, advanced TypeScript patterns, and frontend
-system design at scale. Working through Epic React (Kent C. Dodds),
-The Joy of React (Josh Comeau), and Full Stack Open.
-
 #### 👯 Open to collaborating on
 
 Open-source React tooling, component libraries, design systems,

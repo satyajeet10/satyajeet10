@@ -3,8 +3,6 @@
 Senior Frontend Engineer · 11+ years building banking and enterprise platforms ·
 Micro-frontends (Module Federation) · React · TypeScript · GraphQL · Node.js · AI-enabled products
 
-Previously delivered for DBS Bank, Riyad Bank, Monument Bank, Marriott, and Toyota.
-
 ## Featured
 
 | Project | What it does | Stack |

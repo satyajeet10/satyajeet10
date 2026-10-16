@@ -18,7 +18,6 @@ Micro-frontends (Module Federation) · React · TypeScript · GraphQL · Node.js
 [northbank-ui](https://github.com/satyajeet10/northbank-ui) (accessible React components) ·
 [trade-blotter](https://github.com/satyajeet10/trade-blotter) (framework-free Web Component grid) ·
 [typed-bus](https://github.com/satyajeet10/typed-bus) (type-safe event bus) ·
-[risk-mcp](https://github.com/satyajeet10/risk-mcp) (MCP server for AI agents) ·
 [sprintboard](https://github.com/satyajeet10/sprintboard) · [ledgerly-site](https://github.com/satyajeet10/ledgerly-site)
 
 ## Stack
